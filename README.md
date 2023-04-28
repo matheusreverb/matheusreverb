@@ -1,8 +1,5 @@
 ## Olá me chamo Matheus, fico lisonjeado em receber você!
 
-- 🔭 No momento estou a procura de um trabalho.
-- 😄 Pronomes: Ele/dele
-
 <div>
  <a href="https://github.com/matheusreverb?tab=repositories">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusreverb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
