@@ -2,7 +2,7 @@
 
 <div>
  <a href="https://github.com/matheusreverb?tab=repositories">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusreverb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!--  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusreverb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreverb&layout=compact&langs-count=16&theme=dark"/>
 </div>
 
